@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @brinyipeti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning new programming languages
+- 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me ...
-- 😄 Pronouns: shut/up
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: e=mc^2
 
 <!---
