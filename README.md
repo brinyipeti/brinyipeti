@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm known as petroot</h1>
 
+[IBM ASCII TABLE](https://www.ibm.com/docs/en/aix/7.3?topic=adapters-ascii-decimal-hexadecimal-octal-binary-conversion-table)
 
 <table style="border: 2px solid red; width: 100%; text-align: center;">
   <tr>
@@ -38,7 +39,4 @@
     </td>
   </tr>  
 </table>
-
-
-
 
